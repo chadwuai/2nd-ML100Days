@@ -1,0 +1,10 @@
+
+*.csv
+data/Part01/example.jpg
+data/Part01/example.mat
+data/Part01/example.npy
+data/Part01/example.pkl
+data/Part01/example.txt
+data/Part01/example01.json
+data/Part01/example02.json
+homework/Day_001_example_of_metrics.ipynb
