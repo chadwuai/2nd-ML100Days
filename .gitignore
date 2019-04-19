@@ -2,9 +2,8 @@
 *.csv
 data/*.*
 data/*/*.*
-homework/*_example_of_metrics.ipynb
-homework/*_example_of_metrics_Ans.ipynb
-homework/Day_002_first_EDA.ipynb
-homework/Day_003-1_build_dataframe_from_scratch.ipynb
-homework/Day_003-2_read_and_write_files.ipynb
-homework/Day_003-3_read_and_write_files.ipynb
+homework/*_example*.ipynb
+homework/*_first*.ipynb
+homework/*_build*.ipynb
+homework/*_read*.ipynb
+homework/*_data*.ipynb
